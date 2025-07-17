@@ -42,5 +42,15 @@ require_once "./functions.php";
 ?>
         </div>
     </div>
+    <form action="./server.php" method="POST">
+        <div class="form-control">
+            <input type="text" name="new-title" placeholder="Inserisci il titolo">
+            <input type="text" name="new-artist" placeholder="Inserisci l'artista">
+            <input type="text" name="new-genre" placeholder="Inserisci il genere">
+            <input type="url" name="new-url" placeholder="Inserisci l'url">
+            <input type="number" name="new-date" placeholder="Data" min="1900" max="2025">
+            <button type="submit">Aggiungi</button>
+        </div>
+    </form>
 </body>
 </html>
