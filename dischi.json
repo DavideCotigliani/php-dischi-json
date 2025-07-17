@@ -1,0 +1,44 @@
+[
+    {
+        "titolo": "Rebels",
+        "artista": "Black Veil Brides",
+        "urldellacover": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRebels_%2528EP%2529&psig=AOvVaw0J0CyCme7tJFGJ0thcsMgV&ust=1752846816784000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIiow7GFxI4DFQAAAAAdAAAAABAE",
+        "annodipubblicazione":"2011",
+        "genere":"Heavy metal"
+    },
+     {
+        "titolo": "Finding God before God finds me",
+        "artista": "Bad Omens",
+        "urldellacover": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFinding_God_Before_God_Finds_Me&psig=AOvVaw16yTdlqBEQM0v50FrX1zaS&ust=1752846923159000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDZn-KFxI4DFQAAAAAdAAAAABAE",
+        "annodipubblicazione":"2019",
+        "genere":"Metal core"
+    },
+     {
+        "titolo": "Popular Monster",
+        "artista": "Falling in Reverse",
+        "urldellacover": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPopular_Monster_%2528album%2529&psig=AOvVaw0YA2_0FJ5dxh3GU4Xmmkx8&ust=1752847014569000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjFro-GxI4DFQAAAAAdAAAAABAf",
+        "annodipubblicazione":"2024",
+        "genere":"Metal core"
+    },
+     {
+        "titolo": "Anima Latina",
+        "artista": "Lucio Battisti",
+        "urldellacover": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAnima_latina&psig=AOvVaw3y98AA-GpGPRL08w7vm-Fi&ust=1752847209726000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDe6uqGxI4DFQAAAAAdAAAAABAV",
+        "annodipubblicazione":"1974",
+        "genere":"Rock progressive"
+    },
+     {
+        "titolo": "In the Aeroplane over The Sea",
+        "artista": "Neutral Milk Hotel",
+        "urldellacover": "https://upload.wikimedia.org/wikipedia/en/8/83/In_the_aeroplane_over_the_sea_album_cover_copy.jpg",
+        "annodipubblicazione":"1998",
+        "genere":"Indie rock"
+    },
+     {
+        "titolo": "Meteora",
+        "artista": "Linkin Park",
+        "urldellacover": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMeteora_%2528album%2529&psig=AOvVaw0TZdax0gFckktJltnAu3e2&ust=1752847501427000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPicnPaHxI4DFQAAAAAdAAAAABAE",
+        "annodipubblicazione":"2003",
+        "genere":"Nu metal"
+    }
+]
