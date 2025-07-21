@@ -6,8 +6,8 @@ $json_text = file_get_contents('./dischi.json');
 //salvo la struttura dati in una variabile  (da json a file php)
 $dischi = json_decode($json_text, true);
 
-//inseriamo il nuovo disco nel file
 
+//inseriamo il nuovo disco nel file
 $nuovo_disco = [
      "titolo" => $_POST['new-title'],
      "artista" => $_POST['new-artist'],
